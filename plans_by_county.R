@@ -21,7 +21,5 @@ head(doc)
 # Remove footer on first page
 # footer_row_1 <- grep("* Anthem Blue Cross/ Blue Shield (HMO Colorado) offers", doc)[1]
 # footer_row_2 <- grep("\\f", doc)[1] - 1
-#doc <- doc[-footer_row_1]
-
 
 
